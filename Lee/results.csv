@@ -1,0 +1,381 @@
+hometeam,awayteam,homegoal,awaygoal
+Arsenal,Aston Villa,2,0
+Arsenal,Blackburn Rovers,0,0
+Arsenal,Bolton Wanderers,2,1
+Arsenal,Chelsea,1,1
+Arsenal,Coventry City,1,1
+Arsenal,Everton,1,2
+Arsenal,Leeds United,2,1
+Arsenal,Liverpool,0,0
+Arsenal,Manchester City,3,1
+Arsenal,Manchester United,1,0
+Arsenal,Middlesbrough,1,1
+Arsenal,Newcastle United,2,0
+Arsenal,Nottingham Forest,1,1
+Arsenal,Queens Park Rangers,3,0
+Arsenal,Sheffield Wednesday,4,2
+Arsenal,Southampton,4,2
+Arsenal,Tottenham Hotspur,0,0
+Arsenal,West Ham United,1,0
+Arsenal,Wimbledon,1,3
+Aston Villa,Arsenal,1,1
+Aston Villa,Blackburn Rovers,2,0
+Aston Villa,Bolton Wanderers,1,0
+Aston Villa,Chelsea,0,1
+Aston Villa,Coventry City,4,1
+Aston Villa,Everton,1,0
+Aston Villa,Leeds United,3,0
+Aston Villa,Liverpool,0,2
+Aston Villa,Manchester City,0,1
+Aston Villa,Manchester United,3,1
+Aston Villa,Middlesbrough,0,0
+Aston Villa,Newcastle United,1,1
+Aston Villa,Nottingham Forest,1,1
+Aston Villa,Queens Park Rangers,4,2
+Aston Villa,Sheffield Wednesday,3,2
+Aston Villa,Southampton,3,0
+Aston Villa,Tottenham Hotspur,2,1
+Aston Villa,West Ham United,1,1
+Aston Villa,Wimbledon,2,0
+Blackburn Rovers,Arsenal,1,1
+Blackburn Rovers,Aston Villa,1,1
+Blackburn Rovers,Bolton Wanderers,3,1
+Blackburn Rovers,Chelsea,3,0
+Blackburn Rovers,Coventry City,5,1
+Blackburn Rovers,Everton,0,3
+Blackburn Rovers,Leeds United,1,0
+Blackburn Rovers,Liverpool,2,3
+Blackburn Rovers,Manchester City,2,0
+Blackburn Rovers,Manchester United,1,2
+Blackburn Rovers,Middlesbrough,1,0
+Blackburn Rovers,Newcastle United,2,1
+Blackburn Rovers,Nottingham Forest,7,0
+Blackburn Rovers,Queens Park Rangers,1,0
+Blackburn Rovers,Sheffield Wednesday,3,0
+Blackburn Rovers,Southampton,2,1
+Blackburn Rovers,Tottenham Hotspur,2,1
+Blackburn Rovers,West Ham United,4,2
+Blackburn Rovers,Wimbledon,3,2
+Bolton Wanderers,Arsenal,1,0
+Bolton Wanderers,Aston Villa,0,2
+Bolton Wanderers,Blackburn Rovers,2,1
+Bolton Wanderers,Chelsea,2,1
+Bolton Wanderers,Coventry City,1,2
+Bolton Wanderers,Everton,1,1
+Bolton Wanderers,Leeds United,0,2
+Bolton Wanderers,Liverpool,0,1
+Bolton Wanderers,Manchester City,1,1
+Bolton Wanderers,Manchester United,0,6
+Bolton Wanderers,Middlesbrough,1,1
+Bolton Wanderers,Newcastle United,1,3
+Bolton Wanderers,Nottingham Forest,1,1
+Bolton Wanderers,Queens Park Rangers,0,1
+Bolton Wanderers,Sheffield Wednesday,2,1
+Bolton Wanderers,Southampton,0,1
+Bolton Wanderers,Tottenham Hotspur,2,3
+Bolton Wanderers,West Ham United,0,3
+Bolton Wanderers,Wimbledon,1,0
+Chelsea,Arsenal,1,0
+Chelsea,Aston Villa,1,2
+Chelsea,Blackburn Rovers,2,3
+Chelsea,Bolton Wanderers,3,2
+Chelsea,Coventry City,2,2
+Chelsea,Everton,0,0
+Chelsea,Leeds United,4,1
+Chelsea,Liverpool,2,2
+Chelsea,Manchester City,1,1
+Chelsea,Manchester United,1,4
+Chelsea,Middlesbrough,5,0
+Chelsea,Newcastle United,1,0
+Chelsea,Nottingham Forest,1,0
+Chelsea,Queens Park Rangers,1,1
+Chelsea,Sheffield Wednesday,0,0
+Chelsea,Southampton,3,0
+Chelsea,Tottenham Hotspur,0,0
+Chelsea,West Ham United,1,2
+Chelsea,Wimbledon,1,2
+Coventry City,Arsenal,0,0
+Coventry City,Aston Villa,0,3
+Coventry City,Blackburn Rovers,5,0
+Coventry City,Bolton Wanderers,0,2
+Coventry City,Chelsea,1,0
+Coventry City,Everton,2,1
+Coventry City,Leeds United,0,0
+Coventry City,Liverpool,1,0
+Coventry City,Manchester City,2,1
+Coventry City,Manchester United,0,4
+Coventry City,Middlesbrough,0,0
+Coventry City,Newcastle United,0,1
+Coventry City,Nottingham Forest,1,1
+Coventry City,Queens Park Rangers,1,0
+Coventry City,Sheffield Wednesday,0,1
+Coventry City,Southampton,1,1
+Coventry City,Tottenham Hotspur,2,3
+Coventry City,West Ham United,2,2
+Coventry City,Wimbledon,3,3
+Everton,Arsenal,0,2
+Everton,Aston Villa,1,0
+Everton,Blackburn Rovers,1,0
+Everton,Bolton Wanderers,3,0
+Everton,Chelsea,1,1
+Everton,Coventry City,2,2
+Everton,Leeds United,2,0
+Everton,Liverpool,1,1
+Everton,Manchester City,2,0
+Everton,Manchester United,2,3
+Everton,Middlesbrough,4,0
+Everton,Newcastle United,1,3
+Everton,Nottingham Forest,3,0
+Everton,Queens Park Rangers,2,0
+Everton,Sheffield Wednesday,2,2
+Everton,Southampton,2,0
+Everton,Tottenham Hotspur,1,1
+Everton,West Ham United,3,0
+Everton,Wimbledon,2,4
+Leeds United,Arsenal,0,3
+Leeds United,Aston Villa,2,0
+Leeds United,Blackburn Rovers,0,0
+Leeds United,Bolton Wanderers,0,1
+Leeds United,Chelsea,1,0
+Leeds United,Coventry City,3,1
+Leeds United,Everton,2,2
+Leeds United,Liverpool,1,0
+Leeds United,Manchester City,0,1
+Leeds United,Manchester United,3,1
+Leeds United,Middlesbrough,0,1
+Leeds United,Newcastle United,0,1
+Leeds United,Nottingham Forest,1,3
+Leeds United,Queens Park Rangers,1,3
+Leeds United,Sheffield Wednesday,2,0
+Leeds United,Southampton,1,0
+Leeds United,Tottenham Hotspur,1,3
+Leeds United,West Ham United,2,0
+Leeds United,Wimbledon,1,1
+Liverpool,Arsenal,3,1
+Liverpool,Aston Villa,3,0
+Liverpool,Blackburn Rovers,3,0
+Liverpool,Bolton Wanderers,5,2
+Liverpool,Chelsea,2,0
+Liverpool,Coventry City,0,0
+Liverpool,Everton,1,2
+Liverpool,Leeds United,5,0
+Liverpool,Manchester City,6,0
+Liverpool,Manchester United,2,0
+Liverpool,Middlesbrough,1,0
+Liverpool,Newcastle United,4,3
+Liverpool,Nottingham Forest,4,2
+Liverpool,Queens Park Rangers,1,0
+Liverpool,Sheffield Wednesday,1,0
+Liverpool,Southampton,1,1
+Liverpool,Tottenham Hotspur,0,0
+Liverpool,West Ham United,2,0
+Liverpool,Wimbledon,2,2
+Manchester City,Arsenal,0,1
+Manchester City,Aston Villa,1,0
+Manchester City,Blackburn Rovers,1,1
+Manchester City,Bolton Wanderers,1,0
+Manchester City,Chelsea,0,1
+Manchester City,Coventry City,1,1
+Manchester City,Everton,0,2
+Manchester City,Leeds United,0,0
+Manchester City,Liverpool,2,2
+Manchester City,Manchester United,2,3
+Manchester City,Middlesbrough,0,1
+Manchester City,Newcastle United,3,3
+Manchester City,Nottingham Forest,1,1
+Manchester City,Queens Park Rangers,2,0
+Manchester City,Sheffield Wednesday,1,0
+Manchester City,Southampton,2,1
+Manchester City,Tottenham Hotspur,1,1
+Manchester City,West Ham United,2,1
+Manchester City,Wimbledon,1,0
+Manchester United,Arsenal,1,0
+Manchester United,Aston Villa,0,0
+Manchester United,Blackburn Rovers,1,0
+Manchester United,Bolton Wanderers,3,0
+Manchester United,Chelsea,1,1
+Manchester United,Coventry City,1,0
+Manchester United,Everton,2,0
+Manchester United,Leeds United,1,0
+Manchester United,Liverpool,2,2
+Manchester United,Manchester City,1,0
+Manchester United,Middlesbrough,2,0
+Manchester United,Newcastle United,2,0
+Manchester United,Nottingham Forest,5,0
+Manchester United,Queens Park Rangers,2,1
+Manchester United,Sheffield Wednesday,2,2
+Manchester United,Southampton,4,1
+Manchester United,Tottenham Hotspur,1,0
+Manchester United,West Ham United,2,1
+Manchester United,Wimbledon,3,1
+Middlesbrough,Arsenal,2,3
+Middlesbrough,Aston Villa,0,2
+Middlesbrough,Blackburn Rovers,2,0
+Middlesbrough,Bolton Wanderers,1,4
+Middlesbrough,Chelsea,2,0
+Middlesbrough,Coventry City,2,1
+Middlesbrough,Everton,0,2
+Middlesbrough,Leeds United,1,1
+Middlesbrough,Liverpool,2,1
+Middlesbrough,Manchester City,4,1
+Middlesbrough,Manchester United,0,3
+Middlesbrough,Newcastle United,1,2
+Middlesbrough,Nottingham Forest,1,1
+Middlesbrough,Queens Park Rangers,1,0
+Middlesbrough,Sheffield Wednesday,3,1
+Middlesbrough,Southampton,0,0
+Middlesbrough,Tottenham Hotspur,0,1
+Middlesbrough,West Ham United,4,2
+Middlesbrough,Wimbledon,1,2
+Newcastle United,Arsenal,2,0
+Newcastle United,Aston Villa,1,0
+Newcastle United,Blackburn Rovers,1,0
+Newcastle United,Bolton Wanderers,2,1
+Newcastle United,Chelsea,2,0
+Newcastle United,Coventry City,3,0
+Newcastle United,Everton,1,0
+Newcastle United,Leeds United,2,1
+Newcastle United,Liverpool,2,1
+Newcastle United,Manchester City,3,1
+Newcastle United,Manchester United,0,1
+Newcastle United,Middlesbrough,1,0
+Newcastle United,Nottingham Forest,3,1
+Newcastle United,Queens Park Rangers,2,1
+Newcastle United,Sheffield Wednesday,2,0
+Newcastle United,Southampton,1,0
+Newcastle United,Tottenham Hotspur,1,1
+Newcastle United,West Ham United,3,0
+Newcastle United,Wimbledon,6,1
+Nottingham Forest,Arsenal,0,1
+Nottingham Forest,Aston Villa,1,1
+Nottingham Forest,Blackburn Rovers,1,5
+Nottingham Forest,Bolton Wanderers,3,2
+Nottingham Forest,Chelsea,0,0
+Nottingham Forest,Coventry City,0,0
+Nottingham Forest,Everton,3,2
+Nottingham Forest,Leeds United,2,1
+Nottingham Forest,Liverpool,1,0
+Nottingham Forest,Manchester City,3,0
+Nottingham Forest,Manchester United,1,1
+Nottingham Forest,Middlesbrough,1,0
+Nottingham Forest,Newcastle United,1,1
+Nottingham Forest,Queens Park Rangers,3,0
+Nottingham Forest,Sheffield Wednesday,1,0
+Nottingham Forest,Southampton,1,0
+Nottingham Forest,Tottenham Hotspur,2,1
+Nottingham Forest,West Ham United,1,1
+Nottingham Forest,Wimbledon,4,1
+Queens Park Rangers,Arsenal,1,1
+Queens Park Rangers,Aston Villa,1,0
+Queens Park Rangers,Blackburn Rovers,0,1
+Queens Park Rangers,Bolton Wanderers,2,1
+Queens Park Rangers,Chelsea,1,2
+Queens Park Rangers,Coventry City,1,1
+Queens Park Rangers,Everton,3,1
+Queens Park Rangers,Leeds United,1,2
+Queens Park Rangers,Liverpool,1,2
+Queens Park Rangers,Manchester City,1,0
+Queens Park Rangers,Manchester United,1,1
+Queens Park Rangers,Middlesbrough,1,1
+Queens Park Rangers,Newcastle United,2,3
+Queens Park Rangers,Nottingham Forest,1,1
+Queens Park Rangers,Sheffield Wednesday,0,3
+Queens Park Rangers,Southampton,3,0
+Queens Park Rangers,Tottenham Hotspur,2,3
+Queens Park Rangers,West Ham United,3,0
+Queens Park Rangers,Wimbledon,0,3
+Sheffield Wednesday,Arsenal,1,0
+Sheffield Wednesday,Aston Villa,2,0
+Sheffield Wednesday,Blackburn Rovers,2,1
+Sheffield Wednesday,Bolton Wanderers,4,2
+Sheffield Wednesday,Chelsea,0,0
+Sheffield Wednesday,Coventry City,4,3
+Sheffield Wednesday,Everton,2,5
+Sheffield Wednesday,Leeds United,6,2
+Sheffield Wednesday,Liverpool,1,1
+Sheffield Wednesday,Manchester City,1,1
+Sheffield Wednesday,Manchester United,0,0
+Sheffield Wednesday,Middlesbrough,0,1
+Sheffield Wednesday,Newcastle United,0,2
+Sheffield Wednesday,Nottingham Forest,1,3
+Sheffield Wednesday,Queens Park Rangers,1,3
+Sheffield Wednesday,Southampton,2,2
+Sheffield Wednesday,Tottenham Hotspur,1,3
+Sheffield Wednesday,West Ham United,0,1
+Sheffield Wednesday,Wimbledon,2,1
+Southampton,Arsenal,0,0
+Southampton,Aston Villa,0,1
+Southampton,Blackburn Rovers,1,0
+Southampton,Bolton Wanderers,1,0
+Southampton,Chelsea,2,3
+Southampton,Coventry City,1,0
+Southampton,Everton,2,2
+Southampton,Leeds United,1,1
+Southampton,Liverpool,1,3
+Southampton,Manchester City,1,1
+Southampton,Manchester United,3,1
+Southampton,Middlesbrough,2,1
+Southampton,Newcastle United,1,0
+Southampton,Nottingham Forest,3,4
+Southampton,Queens Park Rangers,2,0
+Southampton,Sheffield Wednesday,0,1
+Southampton,Tottenham Hotspur,0,0
+Southampton,West Ham United,0,0
+Southampton,Wimbledon,0,0
+Tottenham Hotspur,Arsenal,2,1
+Tottenham Hotspur,Aston Villa,0,1
+Tottenham Hotspur,Blackburn Rovers,2,3
+Tottenham Hotspur,Bolton Wanderers,2,2
+Tottenham Hotspur,Chelsea,1,1
+Tottenham Hotspur,Coventry City,3,1
+Tottenham Hotspur,Everton,0,0
+Tottenham Hotspur,Leeds United,2,1
+Tottenham Hotspur,Liverpool,1,3
+Tottenham Hotspur,Manchester City,1,0
+Tottenham Hotspur,Manchester United,4,1
+Tottenham Hotspur,Middlesbrough,1,1
+Tottenham Hotspur,Newcastle United,1,1
+Tottenham Hotspur,Nottingham Forest,0,1
+Tottenham Hotspur,Queens Park Rangers,1,0
+Tottenham Hotspur,Sheffield Wednesday,1,0
+Tottenham Hotspur,Southampton,1,0
+Tottenham Hotspur,West Ham United,0,1
+Tottenham Hotspur,Wimbledon,3,1
+West Ham United,Arsenal,0,1
+West Ham United,Aston Villa,1,4
+West Ham United,Blackburn Rovers,1,1
+West Ham United,Bolton Wanderers,1,0
+West Ham United,Chelsea,1,3
+West Ham United,Coventry City,3,2
+West Ham United,Everton,2,1
+West Ham United,Leeds United,1,2
+West Ham United,Liverpool,0,0
+West Ham United,Manchester City,4,2
+West Ham United,Manchester United,0,1
+West Ham United,Middlesbrough,2,0
+West Ham United,Newcastle United,2,0
+West Ham United,Nottingham Forest,1,0
+West Ham United,Queens Park Rangers,1,0
+West Ham United,Sheffield Wednesday,1,1
+West Ham United,Southampton,2,1
+West Ham United,Tottenham Hotspur,1,1
+West Ham United,Wimbledon,1,1
+Wimbledon,Arsenal,0,3
+Wimbledon,Aston Villa,3,3
+Wimbledon,Blackburn Rovers,1,1
+Wimbledon,Bolton Wanderers,3,2
+Wimbledon,Chelsea,1,1
+Wimbledon,Coventry City,0,2
+Wimbledon,Everton,2,3
+Wimbledon,Leeds United,2,4
+Wimbledon,Liverpool,1,0
+Wimbledon,Manchester City,3,0
+Wimbledon,Manchester United,2,4
+Wimbledon,Middlesbrough,0,0
+Wimbledon,Newcastle United,3,3
+Wimbledon,Nottingham Forest,1,0
+Wimbledon,Queens Park Rangers,2,1
+Wimbledon,Sheffield Wednesday,2,2
+Wimbledon,Southampton,1,2
+Wimbledon,Tottenham Hotspur,0,1
+Wimbledon,West Ham United,0,1
